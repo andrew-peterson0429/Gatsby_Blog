@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby Blog`,
     author: {
       name: `Andrew Peterson`,
-      summary: `is a Web Design and Development major at UVU.`,
+      summary: `who is a Web Design and Development major at UVU.`,
     },
     description: `A blog written by Andrew with Gatsby.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
