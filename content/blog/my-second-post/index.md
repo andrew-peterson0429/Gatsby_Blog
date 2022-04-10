@@ -1,13 +1,12 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: My Second Blog Post
+date: "2022-04-09T22:12:03.284Z"
+description: "Second Blog Post with Gatsby"
 ---
 
-Wow! I love blogging so much already.
+Gatsby is still a thing and this is apparently still a blog. Here is my second post.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Heres another meme to enjoy while going over students' assignments.
 
-Yeah, I didn't either.
+## MEME
+![Coding meme again](./coding-meme2.JPG)
