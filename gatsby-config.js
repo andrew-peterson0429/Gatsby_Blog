@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Gatsby Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Andrew Peterson`,
+      summary: `is a Web Design and Development major at UVU.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog written by Andrew with Gatsby.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `AndrewP27826746`,
     },
   },
   plugins: [
